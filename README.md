@@ -6,7 +6,7 @@ You can open this look to look at python colab notebook for clear understanding 
 https://colab.research.google.com/drive/1foE4xF16GHXiIFUBp3I1qHfBKSw-q8JB?usp=sharing
 
 ```
-The core of this project is to move beyond simple mention counts and create more nuanced metrics that reflect the true impact of a brand's online presence.
+The core of this project is to move beyond simple mention counts and create metrics that reflect the true impact of a brand's online presence.
 
 ## Key Analyses & Metrics
 
