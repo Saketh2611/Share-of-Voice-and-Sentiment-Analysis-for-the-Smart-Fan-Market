@@ -55,23 +55,11 @@ Follow these steps to set up and run the project locally.
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
-
-3.  **Install Dependencies:**
-    Create a `requirements.txt` file with the content below and install it using `pip`.
-    ```
-    # requirements.txt
-    pandas
-    vaderSentiment
-    qdrant_client
-    sentence_transformers
-    google-api-python-client
-    matplotlib
-    notebook
-    ```
-    Then run:
+  Then run:
     ```bash
     pip install -r requirements.txt
     ```
+    download the requirement.txt 
 
 4.  **Set Up API Keys:**
     * **YouTube Data API:** This project requires a YouTube Data API v3 key. Obtain one from the [Google Cloud Console](https://console.cloud.google.com/).
